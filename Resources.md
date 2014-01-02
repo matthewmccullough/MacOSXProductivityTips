@@ -1,4 +1,7 @@
-# Resources Guide for _Mac OSX Productivity Tips for Developers_
+# Resources Guide  
+for O'Reilly Media's [_Mac OSX Productivity Tips for Developers_](http://shop.oreilly.com/product/110000007.do) video course
+
+[![Video](http://akamaicovers.oreilly.com/images/110000007/cat.gif)](http://shop.oreilly.com/product/110000007.do)
 
 ## Introduction
  
