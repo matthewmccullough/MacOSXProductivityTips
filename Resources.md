@@ -76,8 +76,25 @@ Configured via _System Preferences_ → _Keyboard_ → _Modifer Keys_
 * [Pandoc definition](http://en.wikipedia.org/wiki/Pandoc)
 
 ## Package Management
+* MacPorts
+* Homebrew
 
 ## Searching with Spotlight
+### Constraints
+* `name:<phrase>`
+* `kind:<type>`
+* `date:<date>`
+* `date:today`
+* `date:>1/1/08`
+* `modified:3/7/08-3/10/08`
+* `created:=6/1/08`
+* `AND`
+* `OR`
+* `NOT`
+
+### Behavior modifiers
+* `⌘⌥ <hover>`
+* `⌘ <enter or click>`
 
 ## Viewing with Quicklook
 
