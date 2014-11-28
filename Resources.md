@@ -9,12 +9,23 @@ for O'Reilly Media's [_Mac OSX Productivity Tips for Developers_](http://shop.or
 * Many [system-wide keyboard shortcuts](http://support.apple.com/en-us/HT201236) are pre-configured.
 
 ## Keyboard Hacks
-* Global text expansion is configured via _System Preferences_ → _Keyboard_ → _Text_
- ![Text Preference Pane](images/keyboardhacks-textpreferencepane.jpg)
-* Keyboard shortcuts are configured via _System Preferences_ → _Keyboard_ → _Shortcuts_
- ![Shortcuts Preference Pane](images/keyboardhacks-shortcutspreferencepane.jpg)
-* Modifier keys are configured via _System Preferences_ → _Keyboard_ → _Modifer Keys_
- ![Modifier Keys Preference Pane](images/keyboardhacks-modifierkeyspreferencepane.jpg)
+
+### Global text expansion
+* Configured via _System Preferences_ → _Keyboard_ → _Text_
+![Text Preference Pane](images/keyboardhacks-textpreferencepane.jpg)
+
+### Keyboard shortcuts
+Configured via _System Preferences_ → _Keyboard_ → _Shortcuts_
+![Shortcuts Preference Pane](images/keyboardhacks-shortcutspreferencepane.jpg)
+
+### Modifier keys
+Configured via _System Preferences_ → _Keyboard_ → _Modifer Keys_
+![Modifier Keys Preference Pane](images/keyboardhacks-modifierkeyspreferencepane.jpg)
+
+### Keyboard acceleration in Safari
+* [Type to Navigate](http://dbergey.github.io/) ([source code](https://github.com/dbergey/Type-To-Navigate)
+* [Vimari](http://guyht.github.io/vimari/) ([source code](https://github.com/guyht/vimari)
+* [gleeBox](http://guyht.github.io/vimari/)
 
 ## Terminal Tips
 
