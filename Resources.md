@@ -48,8 +48,32 @@ Configured via _System Preferences_ → _Keyboard_ → _Modifer Keys_
 * [Oh-my-zsh Zsh prompts](http://ohmyz.sh/) [source code](https://github.com/robbyrussell/oh-my-zsh)
 
 ## Source Control Assistants
+* [Tig](http://gitready.com/advanced/2009/07/31/tig-the-ncurses-front-end-to-git.html)
+* [Hub Gem](http://hub.github.com)
+* [Matthew's shell scripts]()
 
 ## File Formats
+### Markdown
+* [Markdown homepage](http://daringfireball.net/projects/markdown/)
+* [GitHub Flavored Markdown](https://help.github.com/articles/markdown-basics/) ([source](http://github.github.com/github-flavored-markdown/))
+* [Mastering Markdown Guide](https://guides.github.com/features/mastering-markdown/)
+* [Markdown cheat sheet](http://markdown.chibi.io/)
+
+### Asciidoc
+* [Asciidoc Homepage](http://www.methods.co.nz/asciidoc/)
+* [Asciidoctor project homepage](http://asciidoctor.org/)
+* [Asciidoctor project code](https://github.com/asciidoctor)
+* [Asciidoc support on GitHub](http://asciidoctor.org/news/2013/01/30/asciidoc-returns-to-github/)
+
+### DocBook format
+* [DocBook format](http://docbook.org/)
+* [DocBook HowTo](http://ibiblio.org/godoy/sgml/docbook/howto/writing-docbook.html)
+* [DocBook blog post: The minimum you need](http://shinysparkly.com/blog/2011/09/10/docbook-the-minimum-you-need/)
+
+### Pandoc tool
+* [Pandoc tool homepage](http://johnmacfarlane.net/pandoc/)
+* [Pandoc source code](https://github.com/jgm/pandoc)
+* [Pandoc definition](http://en.wikipedia.org/wiki/Pandoc)
 
 ## Package Management
 
