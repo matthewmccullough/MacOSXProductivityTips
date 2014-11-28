@@ -9,6 +9,8 @@ for O'Reilly Media's [_Mac OSX Productivity Tips for Developers_](http://shop.or
 * Many [system-wide keyboard shortcuts](http://support.apple.com/en-us/HT201236) are pre-configured.
  
 ## Keyboard Hacks
+* Global text expansion is configured via _System Preferences_ → _Keyboard_ → _Text_
+    * ![Text Preference Pane](images/keyboardhacks-textpreferencepane.jpg)
  
 ## Terminal Tips
  
