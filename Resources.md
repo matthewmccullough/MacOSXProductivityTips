@@ -6,6 +6,7 @@ for O'Reilly Media's [_Mac OSX Productivity Tips for Developers_](http://shop.or
 ## Introduction
 * Apple supports the [Single UNIX Specification](http://www.unix.org/what_is_unix/single_unix_specification.html) and includes [POSIX Libraries](https://developer.apple.com/library/mac/documentation/Porting/Conceptual/PortingUnix/background/background.html#//apple_ref/doc/uid/TP40002848-TPXREF101).
 * OSX includes [open source, such as the Apache web server, Ruby, Bash, and ZShell](https://www.apple.com/opensource/) out of the box.
+* Many [system-wide keyboard shortcuts](http://support.apple.com/en-us/HT201236) are pre-configured.
  
 ## Keyboard Hacks
  
