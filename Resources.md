@@ -97,31 +97,63 @@ Configured via _System Preferences_ → _Keyboard_ → _Modifer Keys_
 * `⌘ <enter or click>`
 
 ## Viewing with Quicklook
+### Quicklook extensions
+* [Quicklook plugin directory](http://www.quicklookplugins.com/)
+
+### Quicklook command line
+* `ql`
+* `quicklook`
+* `qlmanage`
 
 ## Moving with Finder
+* Command + Alt + V on paste
 
 ## Saving to the Cloud
+* [CloudApp](https://www.getcloudapp.com/)
+* [Gists](https://gist.github.com)
+* [Tweeting with T](http://sferik.github.io/t)
 
 ## Web Service Helpers
+* `curl`
+* `wget`
 
 ## Pasteboard Command Line
+* `pbcopy`
+* `pbpaste`
 
 ## Shell Tune-Ups
+* [zsh]()
+* [oh-my-zsh]()
+* [Matthew's Dotfiles]()
 
 ## Display Control
+* Caffeine
+* `Caffeinate` at the command line
+* Slate layout manager ([source code]())
 
 ## Applescript Automation
+### Command Line
+* `osascript` is the command
+* `-e` indicates the script will provided on the command line
+* Tell _Finder_ to `sleep`
+ `osascript -e 'tell application "Finder" to sleep'`
+
+### Automator GUI
+* Build automation scripts
+* Record application actions
+* Save as script or application `.app`
+
+### Open command
+* `open <filename>` opens file with default association
+* `open -a "TextMate" <filename>` opens with a specific application
 
 ## Automator Apps
+* Reformat to JPEG
 
 ## Quick Directory Toggles
+* `z` frecency navigation
+* `cd -`
 
-## Boxen - Part 01
-
-## Boxen - Part 02
-
-## Boxen - Part 03
-
-## Boxen - Part 04
-
-## Summary
+## Boxen
+* [Boxen homepage](http://boxen.github.com)
+* [Boxen source code](https://github.com/boxen)
