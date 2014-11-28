@@ -28,6 +28,7 @@ Configured via _System Preferences_ → _Keyboard_ → _Modifer Keys_
 * [gleeBox](http://guyht.github.io/vimari/)
 
 ## Terminal Tips
+### Terminal Apps
 * `Terminal.app` is built in to Mac OSX
   * Supports opacity
   * Easy [split panes](http://iterm2.com/features.html)
@@ -40,6 +41,11 @@ Configured via _System Preferences_ → _Keyboard_ → _Modifer Keys_
   * Configurable full screen behavior
   * Greater color selection
   * Configurable minimum contrast
+
+### Shell enhancements
+* [Git-core Git prompts](https://github.com/git/git/tree/master/contrib/completion)
+* [Matthew's Bash prompts](https://github.com/matthewmccullough/dotfiles/blob/master/bash_gitprompt)
+* [Oh-my-zsh Zsh prompts](http://ohmyz.sh/) [source code](https://github.com/robbyrussell/oh-my-zsh)
 
 ## Source Control Assistants
 
