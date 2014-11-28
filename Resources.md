@@ -28,6 +28,18 @@ Configured via _System Preferences_ → _Keyboard_ → _Modifer Keys_
 * [gleeBox](http://guyht.github.io/vimari/)
 
 ## Terminal Tips
+* `Terminal.app` is built in to Mac OSX
+  * Supports opacity
+  * Easy [split panes](http://iterm2.com/features.html)
+  * Minimal theme configuration
+* [iTerm 2](http://iterm2.com/) is an alternative
+  * [Open source](https://github.com/gnachman/iTerm2), [open project](https://code.google.com/p/iterm2/)
+  * Profiles for window configuration
+  * Scroll-back through history, even on remote machines
+  * Cross-machine preference sharing
+  * Configurable full screen behavior
+  * Greater color selection
+  * Configurable minimum contrast
 
 ## Source Control Assistants
 
